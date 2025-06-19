@@ -1,0 +1,15 @@
+Crear una base de datos llamada Registros
+Crear una tabla llamada Alumno
+
+Campos de la Tabla: Alumno
+ID - Autonumerico
+Nombre - Texto Corto
+DNI - Texto Corto
+FechaNacimiento: Fecha/Hora
+Foto: Datos Adjunto
+Grado: Texto Corto
+SACE: Si/No
+Indice: Numero
+
+Ingrese 3 registros, los datos no deben ser reales.
+
