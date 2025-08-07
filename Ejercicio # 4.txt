@@ -1,0 +1,6 @@
+Buenos dias alumnos, deben realizar el siguiente ejercicio:
+1. Crear una Base  de datos llamada Repaso
+2. Crear una tabla llamada Test, con los siguientes campos [ID, NOMBRES, GRADO, ASIGNATURA Y NOTA]
+3. Crear un formulario llamado Alumno con todos los campos de la tabla
+4. En el formulario debe colocar los siguientes botones de registro [ Nuevo, Grabar y Eliminar]
+5. Ingrese por los menos 3 alumnos con sus datos.
