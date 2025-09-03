@@ -1,0 +1,16 @@
+Haga la siguiente invetigacion sobre los temas que a continuacion se le detallan:   (NONBRE Y GRADO)
+¿Qué es la programación?
+
+Tipos de programación:
+
+Programación imperativa
+
+Programación orientada a objetos (POO)
+
+Programación funcional
+
+Programación lógica
+
+Programación declarativa
+
+¿Por qué es importante la programación?
