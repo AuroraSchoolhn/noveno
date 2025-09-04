@@ -1,0 +1,8 @@
+1. Crear una base de datos "Registro"
+2. Crear una tabla llamada "Datos"
+3. La tablaa tendra los siguientes campos: 
+  ID, NOMBRES [Maximo 35 caracteres], APELLIDOS [Maximo 35 caracteres] *campos obligatorios,
+  FECHA, DNI [MASCARA 9999-9999-99999] *campo obligatorio
+4. Diseñe un formulario con todos los campos, incluir los siguientes objetos:
+  Boton Nuevo Registro, Boton Guardar, Boton Eliminar, Cuadro combinado, Boton de opcion y 
+  un hiperviculo.
