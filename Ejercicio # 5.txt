@@ -1,0 +1,22 @@
+Codigo realizado el miercoles:
+
+     <h1>EJERCICIO # 5</h1>
+      <h3>Jueves 25 de Septiembre 2025</h3>
+      <p>Siga las siguientes instrucciones</p>
+      <img src="https://www.educaciontrespuntocero.com/wp-content/uploads/2020/01/903499__classical-literature_p.jpg" alt="" />
+
+--------NUEVAS INSTRUCCIONES-------
+- Cambie el color de los encabezados
+- Cambie el color del parrafo        
+
+h1{
+  color: red;
+}
+
+Paleta de colores (referencia)  https://colorhunt.co/
+
+-Cambie el tamaño de la imagen:
+img{
+  height: 150px;
+  width: 150px;
+}
