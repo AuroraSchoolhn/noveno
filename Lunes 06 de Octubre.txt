@@ -1,0 +1,15 @@
+ETIQUETA ADJUNTO:
+  <label for="">Adjunte la imagen</label>
+  <input type="file" id="file-upload" name="attachment">
+
+ETIQUETA PARA ESPACIO:
+    <br />
+
+ETIQUETA LISTA DE SELECCION:
+  <label for="">Seleccione una opcion:</label>
+    <select name="" id="">
+    <option value="">Manazana</option>
+    <option value="">Banano</option>
+    <option value="">Naranja</option>
+    <option value="">Uvas</option>
+  </select>
