@@ -1,8 +1,0 @@
-REalice los siguientes ejercicios:
-
-1. Encabezado: Ejercicios de Repaso <h1>
-2. Encabezado: Miercoles 24 de Septiembre  <h3>
-3. Parrafo: Siga las siguientes instrucciones  <p>
-4. Imagen: Inserte una imagen relacionada con la literatura   <img>
-
-Compilador: https://onecompiler.com/html
