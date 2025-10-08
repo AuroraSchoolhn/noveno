@@ -17,3 +17,6 @@ ETIQUETA LISTA DE SELECCION:
 ETIQUETA CHECKBOX
       <label for="">Matriculado</label>
       <input type="checkbox" name="" id="" value="" />
+
+BOTON
+ <button type="submit">GUARDAR</button>
