@@ -13,3 +13,7 @@ ETIQUETA LISTA DE SELECCION:
     <option value="">Naranja</option>
     <option value="">Uvas</option>
   </select>
+
+ETIQUETA CHECKBOX
+      <label for="">Matriculado</label>
+      <input type="checkbox" name="" id="" value="" />
