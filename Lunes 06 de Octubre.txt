@@ -15,7 +15,7 @@ ETIQUETA LISTA DE SELECCION:
   </select>
 
 ETIQUETA CHECKBOX
-      <label for="">Matriculado</label>
+      <label for="">Ejrmplo CheckBox</label>
       <input type="checkbox" name="" id="" value="" />
 
 BOTON
