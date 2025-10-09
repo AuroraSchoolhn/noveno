@@ -20,3 +20,8 @@ ETIQUETA CHECKBOX
 
 BOTON
  <button type="submit">GUARDAR</button>
+
+LINEA HORIZONTAL
+<p>Esta es la primera sección de contenido.</p>
+<hr>
+<p>Esta es la segunda sección, separada por una línea horizontal.</p>
