@@ -1,10 +1,23 @@
 *{
-  background-color: #FBF3D1;
-  font-family: Trebuchet MS;
   padding: 5px;
   margin: 10px;
 }
 
+body{
+  background-color: #FBF3D1;
+  font-family: Trebuchet MS;
+
+}
+
 h1{
   color: #450693;
+}
+
+div{
+  background-color: #DEDED1;
+}
+
+img{
+  height: 100px;
+  width: 100px;
 }
