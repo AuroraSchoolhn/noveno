@@ -4,20 +4,45 @@
 }
 
 body{
-  background-color: #FBF3D1;
+  background-color: #;       /* cambie el corlor */
   font-family: Trebuchet MS;
 
 }
 
 h1{
-  color: #450693;
+  color: #;   /* cambie el corlor */
+}
+
+h3{
+  color: ;    /* cambie el corlor */
 }
 
 div{
-  background-color: #DEDED1;
+  background-color: #;   /* cambie el corlor */
+  box-shadow: 5px 5px 8px;
 }
 
 img{
-  height: 100px;
-  width: 100px;
+  height: px;     /* cambie la altura */
+  width: px;     /* cambie el ancho */
+}
+
+label{
+  color: #;   /* cambie el corlor */
+}
+
+button{
+  height: 60px;
+  width: 150px;
+  background-color: ;   /* cambie el corlor */
+  color: ;      /* cambie el corlor */
+  border-radius: 8px;
+}
+
+button:hover{
+  height: 70px;
+  width: 170px;
+  background-color: #B77466;
+  color: #FFE1AF;
+  border-radius: 8px;
 }
