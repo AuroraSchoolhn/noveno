@@ -1,8 +1,0 @@
-Codigo HTML 
-Para configurar la casilla de fecha y foto.
-
-    <label for="">Fecha:</label>
-    <input type="date" name="" id="">
-    <br>   
-    <label for="">Foto:</label>
-    <input type="file" src="" alt="">
