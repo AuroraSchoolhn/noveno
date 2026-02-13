@@ -1,4 +1,6 @@
 1. Ingresar al programa Access
 2. Conocer el entorno de Access
 3. Crear una Base de Datos llamada Noveno
-4. Crear una tabla llamada Alumno
+4. Crear una tabla llamada Matricula
+La tabla alumno tendra los siguientes campos (ver imagen tabla matricula)
+
