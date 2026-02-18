@@ -10,3 +10,8 @@ PRECIO        MONEDA
 CANTIDAD      NUMERO
 EXENTO        SI/NO
 FOTO          DATOS ADJUNTOS
+
+
+INGRESE 10 MATERIALES DE CONSTRUCCION
+Fuente de informacion: https://www.ejemplos.co/20-ejemplos-de-materiales-de-construccion/
+Usted solo tomara la descripcion, los otros datos son aleatorios.
