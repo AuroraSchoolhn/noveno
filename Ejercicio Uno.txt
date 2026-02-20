@@ -1,0 +1,16 @@
+Nombre de la Base de Datos: UNO
+Nombre de la Tabla: Datos
+
+Campos de la Tabla:
+Id  Autonumeración
+Nombres      Texto Corto
+Apellidos    Texto Corto
+DNI          Texto Corto
+Fecha_Nacimiento  Texto Corto
+Foto          Datos Adjuntos
+Grado         Texto Corto
+Seccion       Numero
+Conducta      Texto Corto
+Indice        Numero
+
+INGRESE POR LOS MENOS 10 ESTUDIANTES
