@@ -1,0 +1,4 @@
+Investigue lo siguiente sobre Microsoft Access, lo realiza en un archivo de word.
+1. Que son los informes o reportes?
+2. Cuales son los pasos para crear un informe con el asistenten?
+3. Intente hacer un informe con las tablas que ha creado previamente
