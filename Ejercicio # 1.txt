@@ -1,0 +1,14 @@
+FORMULARIO EN ACCESS
+Los formularios en Microsoft Access son objetos de base de datos que actúan como una interfaz gráfica, 
+diseñada para facilitar la entrada, edición, visualización y gestión de los datos almacenados en tablas o 
+consultas de forma cómoda e intuitiva. Funcionan como una máscara o "formulario en papel" digital, 
+mejorando la experiencia del usuario y controlando el acceso a los datos
+
+Pasos detallados para crearlo:
+
+Iniciar Asistente: En la pestaña Crear, haga clic en Asistente para formularios.
+Seleccionar datos: En la ventana que aparece, elija la tabla o consulta que contiene los datos en el menú desplegable "Tablas/Consultas".
+Seleccionar campos: Mueva los campos necesarios de la lista "Campos disponibles" a "Campos seleccionados" usando los botones > o >>. Haga clic en Siguiente.
+Elegir distribución: Seleccione la distribución deseada (en columnas, tabular, hoja de datos o justificado). Haga clic en Siguiente.
+Asignar título: Asigne un nombre al formulario.
+Finalizar: Seleccione "Abrir el formulario para ver o introducir información" o "Modificar el diseño del formulario" y haga clic en Finalizar.
