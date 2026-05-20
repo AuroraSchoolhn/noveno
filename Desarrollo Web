@@ -1,0 +1,13 @@
+El desarrollo web es el proceso de creación y mantenimiento de sitios y aplicaciones 
+que se ejecutan en internet a través de un navegador. Se divide principalmente en tres 
+áreas: Frontend (lo que ve el usuario), Backend (la lógica del servidor) y Bases de Datos.
+
+Áreas PrincipalesFrontend (Lado del cliente): Es la interfaz visual y la interacción. 
+Los lenguajes fundamentales son HTML (estructura), CSS (diseño/estilo) y JavaScript (interactividad). 
+Se utilizan frameworks populares como React, Angular o Vue.js para crear interfaces dinámicas.Backend 
+(Lado del servidor): Procesa la información, gestiona la lógica de negocios y conecta el sitio con 
+las bases de datos. Los lenguajes más utilizados incluyen JavaScript (Node.js), Python, PHP o Java.
+
+Link del IDE para realizar las pruebas:
+
+https://onecompiler.com/html
