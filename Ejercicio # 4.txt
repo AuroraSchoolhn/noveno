@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Primera Página Web</title>
+    <style>
+        /* Un poquito de diseño básico para que no se vea aburrido */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+        .imagen-pequena {
+            width: 150px; /* Aquí controlamos que sea pequeña */
+            height: auto;
+            border-radius: 5px;
+            display: block;
+            margin: 15px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>¡Bienvenidos al Desarrollo Web!</h1>
+
+    <h3>Aprender a programar es un arte</h3>
+
+    <p>Hoy vamos a aprender cómo se construye el esqueleto de una página web usando <strong>HTML</strong>. HTML no es un lenguaje de programación, sino un lenguaje de marcado que le dice al navegador dónde acomodar los textos, las imágenes y los videos.</p>
+
+    <img src="https://picsum.photos/150" alt="Imagen de ejemplo minimalista" class="imagen-pequena">
+
+    <p>Tres cosas que puedes hacer con HTML:</p>
+    <ul>
+        <li>Crear tu propio blog interactivo.</li>
+        <li>Estructurar proyectos para tus tareas del colegio.</li>
+        <li>Dar el primer paso para convertirte en desarrollador de videojuegos o apps.</li>
+    </ul>
+
+    <p>¿Qué te gustaría construir a ti?</p>
+
+</body>
+</html>
