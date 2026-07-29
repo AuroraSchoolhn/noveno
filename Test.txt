@@ -1,7 +1,0 @@
-Copiar enlace en el navegador y de forma grupal contestaran las preguntas.
-
-Valor 5%
-
-https://gemini.google.com/app/c6cff3d3506c8dcc
-
-realizare un cuestionario de 15 preguntas sobre tecnologia, esta evaluacion tiene un valor de 5%, los alumos contestaran en base a varias opciones y al final tendran un puntuaje de acuerdo a sus respuestas.  Ten en cuenta que son alumos de 9no grado, han trabajado en access, html y css basico y power point, tambien puedes incluir temas de actualidad tecnologicamente
